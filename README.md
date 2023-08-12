@@ -1,7 +1,7 @@
 - 👋 Hi, It is official @BLACKWORN
 - 👀 We're interested in cothing
 - 🌱 We're currently in development Phase
-- 💞️ I’m looking to collaborate on interns & Employee
+- 💞️ We're looking to collaborate on interns & Employee
 - 📫 How to reach me blackwornclothing@gmail.com
 
 <!---
